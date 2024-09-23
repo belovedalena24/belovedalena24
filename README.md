@@ -70,7 +70,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
+[<img src="/alena_belova_certificate_139_hours_ru.jpg" width="700px" hspace="25px" alt="Сертификат»">](https://raw.githubusercontent.com/belovedalena24/belovedalena24/refs/heads/main/alena_belova_certificate_139_hours_ru.jpg)
 
 <br>
 
